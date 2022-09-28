@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanley</h1>
-<h3 align="center">I write code for a living</h3>
+<h3 align="center">Experienced Software Developer adept in bringing forth expertise in design, development, testing and maintenance of complex codebases.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanleymasinde&label=Profile%20views&color=0e75b6&style=flat" alt="stanleymasinde" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Events254](Events254.co.ke)
 
-- 👯 I’m looking to collaborate on [Deployer](https://github.com/opensource254/deployer)
+- 👯 I’m looking to collaborate on [Notes app](https://github.com/stanleymasinde/notes)
 
 - 📝 I regularly write articles on [stanleymasinde.medium.com](stanleymasinde.medium.com)
 
