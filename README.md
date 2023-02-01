@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/stanleymasinde_" target="blank"><img src="https://img.shields.io/twitter/follow/stanleymasinde_?logo=twitter&style=for-the-badge" alt="stanleymasinde_" /></a> </p>
 
-- 🔭 I’m currently working on [Events254](https://events254.co.ke)
+- 🔭 I’m currently working on [Events254](https://events254.co.ke) and [Expess-Blog](https://github.com/StanleyMasinde/express-blog)
 
 - 👯 I’m looking to collaborate on [Notes app](https://github.com/stanleymasinde/notes)
 
