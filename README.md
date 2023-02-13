@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with links to conferences I can give talks
 - 💬 Ask me about Vue, Nuxt, Node, TS, SQL, Linux, Software archirecture, product design
 - 📫 How to reach me: Twitter [@StanleyMasinde_](https://twitter.com/stanleymasinde)
-- ⚡ Fun fact: Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die. Come ~watch TV~ write some code?”
+- ⚡ Fun fact: "Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die. Come ~watch TV~ write some code?”
