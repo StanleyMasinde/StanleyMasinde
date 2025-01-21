@@ -12,8 +12,8 @@ I'm Stanley Masinde, a passionate software engineer with over 5 years of profess
 
 **Open Source & Projects 📂:**
 
-*   **Notes:** [https://github.com/stanleymasinde/notes](https://github.com/stanleymasinde/notes) - My personal note-taking project. 📝
-*   **PWA Generator:** [https://github.com/opensource254/pwa-generator](https://github.com/stanleymasinde/pwa-generator) -  A tool to quickly generate core PWA components. 🚀
+*   **Notes:** <https://github.com/stanleymasinde/notes> - My personal note-taking project. 📝
+*   **PWA Generator:** <https://github.com/opensource254/pwa-generator> -  A tool to quickly generate core PWA components. 🚀
 
 **Looking For 👀:**
 
