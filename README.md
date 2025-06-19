@@ -1,35 +1,59 @@
-## Hi there 👋, Thanks for stopping by! 😀
+# Hey, I'm Stanley Masinde 👋
 
-I'm Stanley Masinde, a passionate software engineer with over 7 years of professional experience building scalable and robust applications. I enjoy working across the full stack, from frontend development to backend systems and platform engineering.
+Fullstack Engineer & Systems Programmer. I build robust software—across the stack and closer to the metal. Laravel, Node.js, Vue, Nuxt on one side. Rust and Linux on the other. I ship things that scale and survive.
 
-I also love buildig dev tools. I'm interested in infratructure roles. Hit me up <hello@stanleymasinde.com>
+I lead engineering at [Producers Direct](https://producersdirect.org/farm-direct/), where we build digital tools for smallholder farmers across East Africa. From backend services to front-end UIs and AWS infrastructure, I handle it end-to-end.
 
-**Skills & Expertise 🛠️:**
+I also run [Opensource254](https://github.com/opensource254)—a dev community for people who build, not just learn. We built tools like the [COVID-19 Outbreak Tracker](https://github.com/opensource254/Covid-19-web) and continue to ship open projects that help newcomers contribute meaningfully.
 
-*   **Frontend:** Vue.js, Nuxt.js, HTML, CSS, JavaScript
-*   **Backend:** Node.js, Express.js, Laravel (PHP), Rust, REST, RPC
-*   **Systems & Infrastructure:** Platform Engineering, System Architecture, Linux, Docker, Kubernetes, CI/CD
-*   **Languages:** TypeScript, Rust, SQL (MySQL, PostgreSQL), PHP
-*   **Other:** Product Design, Agile Methodologies
+You’ll often find me deep in Neovim, self-hosting infra, or hiking high-altitude trails. I care about the process, not the hype. I’m in it for the systems thinking, not just the deliverables.
 
-**Open Source & Projects:**
+Reach me at: **<hello@stanleymasinde.com>**
 
-*   **Notes:** [Notes](https://github.com/stanleymasinde/notes) - My personal note-taking project.
-*   **PWA Generator:** [PWA Generator](https://github.com/opensource254/pwa-generator) -  A tool to quickly generate core PWA components.
-*   **Lnky:** [Lnky](https://github.com/stanleymasinde/Lnky) - Remove trackers from links.
-*   **Hashtags:** [Hashtags](https://github.com/stanleymasinde/hashtags)
-*   **More here:** <https://oss.stanleymasinde.com>
+---
 
-**Looking For:**
+## 🛠️ Tech Stack
 
-*   Collaboration opportunities on Node/Vue, Laravel, or Rust projects.
-*   Speaking engagements at conferences (always looking for leads!).
-*   Open to discussing new opportunities 🚀
+**Frontend**  
+Vue · Nuxt · JavaScript · HTML/CSS
 
-**Let's Connect 🔗:**
+**Backend**  
+Node.js · Laravel · Express · REST · RPC · Rust
 
-*   Twitter: [@StanleyMasinde_](https://twitter.com/StanleyMasinde_)
-*   Technical Articles: [blog.stanleymasinde.com](https://blog.stanleymasinde.com)
-*   Talks: [Sessionize](https://sessionize.com/stanleymasinde)
+**Infrastructure**  
+Linux · AWS · Docker · CI/CD · Systems Programming
 
-**Fun Fact ⚡:** "Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die. Come ~watch TV~ write some code?" 😉
+**Languages**  
+TypeScript · Rust · PHP · SQL (MySQL/PostgreSQL)
+
+---
+
+## 🧩 Selected Projects
+
+- 🗒️ [Notes](https://github.com/stanleymasinde/notes) — Personal knowledge repo (more than a notes app).
+- ⚙️ [PWA Generator](https://github.com/opensource254/pwa-generator) — Web app to scaffold core PWA pieces fast.
+- 🔗 [Lnky](https://github.com/stanleymasinde/Lnky) — Strip trackers from URLs. Privacy-first.
+- 🧵 [Hashtags](https://github.com/stanleymasinde/hashtags) — Bypass Twitter censorship
+- 🌍 [More here](https://oss.stanleymasinde.com)
+
+---
+
+## 👀 Currently Interested In
+
+- Collaborating on solid Node, Rust, or Laravel projects  
+- Infrastructure/devtools work  
+- Speaking at conferences & developer events
+
+---
+
+## 🔗 Let’s Connect
+
+- Twitter: [@StanleyMasinde_](https://twitter.com/StanleyMasinde_)  
+- Blog: [blog.stanleymasinde.com](https://blog.stanleymasinde.com)  
+- Talks: [Sessionize](https://sessionize.com/stanleymasinde)
+
+---
+
+## ⚡ Fun Fact
+
+> “Nobody exists on purpose. Nobody belongs anywhere. Everybody’s gonna die. Come ~watch TV~ write some code?” 😉
