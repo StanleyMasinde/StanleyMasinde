@@ -2,7 +2,7 @@
 
 Fullstack Engineer & Systems Programmer. I build robust software—across the stack and closer to the metal. Laravel, Node.js, Vue, Nuxt on one side. Rust and Linux on the other. I ship things that scale and survive.
 
-I lead engineering at [Producers Direct](https://producersdirect.org/farm-direct/), where we build digital tools for smallholder farmers across East Africa. From backend services to front-end UIs and AWS infrastructure, I handle it end-to-end.
+I lead engineering at [Producers Direct](https://producersdirect.org/farm-direct/), where we build digital tools for smallholder farmers across East Africa. From backend services to front-end UIs and AWS infrastructure.
 
 I also run [Opensource254](https://github.com/opensource254)—a dev community for people who build, not just learn. We built tools like the [COVID-19 Outbreak Tracker](https://github.com/opensource254/Covid-19-web) and continue to ship open projects that help newcomers contribute meaningfully.
 
