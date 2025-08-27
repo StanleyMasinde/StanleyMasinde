@@ -35,7 +35,7 @@ TypeScript · Rust · PHP · SQL (MySQL/PostgreSQL)
 - [Lnky](https://github.com/stanleymasinde/Lnky) — Strip trackers from URLs. Privacy-first.
 - [Hashtags](https://github.com/stanleymasinde/hashtags) — Bypass Twitter censorship
 - [WASM Image Processor](https://github.com/StanleyMasinde/wasm-image-processor) - Process images right in the browser.
-- [More here](https://oss.stanleymasinde.com)
+- [More here](https://stanleymasinde.com/projects)
 
 ---
 
