@@ -8,22 +8,22 @@ I also run [Opensource254](https://github.com/opensource254)—a dev community f
 
 You’ll often find me deep in Neovim, self-hosting infra, or hiking high-altitude trails. I care about the process, not the hype. I’m in it for the systems thinking, not just the deliverables.
 
-Reach me at: **<hello@stanleymasinde.com>**
+Reach me at: _<hello@stanleymasinde.com>_
 
 ---
 
 ## Tech Stack
 
-**Frontend**  
+### Frontend  
 Vue · Nuxt · JavaScript · HTML/CSS
 
-**Backend**  
+### Backend 
 Node.js · Laravel · Express · REST · RPC · Rust
 
-**Infrastructure**  
+### Infrastructure
 Linux · AWS · Docker · CI/CD · Systems Programming
 
-**Languages**  
+### Languages 
 TypeScript · Rust · PHP · SQL (MySQL/PostgreSQL)
 
 ---
