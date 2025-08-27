@@ -12,7 +12,7 @@ Reach me at: **<hello@stanleymasinde.com>**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**  
 Vue · Nuxt · JavaScript · HTML/CSS
@@ -28,18 +28,18 @@ TypeScript · Rust · PHP · SQL (MySQL/PostgreSQL)
 
 ---
 
-## 🧩 Selected Projects
+## Selected Projects
 
-- 🗒️ [Notes](https://github.com/stanleymasinde/notes) — Personal knowledge repo (more than a notes app).
-- ⚙️ [PWA Generator](https://github.com/opensource254/pwa-generator) — Web app to scaffold core PWA pieces fast.
-- 🔗 [Lnky](https://github.com/stanleymasinde/Lnky) — Strip trackers from URLs. Privacy-first.
-- 🧵 [Hashtags](https://github.com/stanleymasinde/hashtags) — Bypass Twitter censorship
+- [Notes](https://github.com/stanleymasinde/notes) — Personal knowledge repo (more than a notes app).
+- [PWA Generator](https://github.com/opensource254/pwa-generator) — Web app to scaffold core PWA pieces fast.
+- [Lnky](https://github.com/stanleymasinde/Lnky) — Strip trackers from URLs. Privacy-first.
+- [Hashtags](https://github.com/stanleymasinde/hashtags) — Bypass Twitter censorship
 - [WASM Image Processor](https://github.com/StanleyMasinde/wasm-image-processor) - Process images right in the browser.
-- 🌍 [More here](https://oss.stanleymasinde.com)
+- [More here](https://oss.stanleymasinde.com)
 
 ---
 
-## 👀 Currently Interested In
+## Currently Interested In
 
 - Collaborating on solid Node, Rust, or Laravel projects  
 - Infrastructure/devtools work  
@@ -47,7 +47,7 @@ TypeScript · Rust · PHP · SQL (MySQL/PostgreSQL)
 
 ---
 
-## 🔗 Let’s Connect
+## Let’s Connect
 
 - Twitter: [@StanleyMasinde_](https://twitter.com/StanleyMasinde_)  
 - Blog: [blog.stanleymasinde.com](https://blog.stanleymasinde.com)  
@@ -55,6 +55,6 @@ TypeScript · Rust · PHP · SQL (MySQL/PostgreSQL)
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
 > “Nobody exists on purpose. Nobody belongs anywhere. Everybody’s gonna die. Come ~watch TV~ write some code?” 😉
