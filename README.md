@@ -32,6 +32,7 @@ TypeScript · Rust · PHP · SQL (MySQL/PostgreSQL)
 
 ## Selected Projects
 
+* [Twitter](https://github.com/StanleyMasinde/twitter) - A CLI that allows you to tweet without going to twitter dot com.
 * [Notes](https://github.com/stanleymasinde/notes) — Personal knowledge repo (more than a notes app).
 * [PWA Generator](https://github.com/opensource254/pwa-generator) — Web app to scaffold core PWA pieces fast.
 * [Lnky](https://github.com/stanleymasinde/Lnky) — Strip trackers from URLs. Privacy-first.
